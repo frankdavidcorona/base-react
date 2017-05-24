@@ -1,0 +1,35 @@
+Arguments: 
+  /usr/bin/node /usr/bin/yarn add webpack webpack-dev-server path
+
+PATH: 
+  /home/frank/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl
+
+Yarn version: 
+  0.24.5
+
+Node version: 
+  7.10.0
+
+Platform: 
+  linux x64
+
+npm manifest: 
+  {
+    "name": "base-react",
+    "version": "1.0.0",
+    "description": "Base structure for React, Babel, ES6 and Webpack projects.",
+    "main": "index.js",
+    "author": "Frank David Corona Prendes",
+    "license": "MIT"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
+
+Trace: 
+  Error: getaddrinfo ENOTFOUND artifactory.samsystems.cu artifactory.samsystems.cu:80
+      at errnoException (dns.js:28:10)
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:73:26)
