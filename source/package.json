@@ -75,6 +75,7 @@
     "babel-preset-stage-0": "^6.5.0",
     "babel-runtime": "^6.23.0",
     "css-loader": "^0.26.1",
+    "eslint": "^4.15.0",
     "file-loader": "^0.10.0",
     "handlebars-helper-css": "^0.1.0",
     "image-webpack-loader": "^3.4.2",
