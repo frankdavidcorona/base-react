@@ -1,12 +1,10 @@
-# EMR System
-
-EMR platform: http://emr.samsystems.io/
+# Base Project
 
 # Instalation
 
 ```sh
-$ git clone git@github.com:samsystems/emr.git
-$ cd emr
+$ git clone https://github.com/base-react.git
+$ cd base-react
 $ yarn
 $ yarn dev
 ```
